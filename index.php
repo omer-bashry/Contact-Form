@@ -70,6 +70,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     Email Can't Be <strong>Empty</strong>
                 </div>
                 <!-- Test Connectivity -->
+                <!-- Test Connectivity -->
             </div>
 
             <input
