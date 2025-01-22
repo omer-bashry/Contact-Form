@@ -1,0 +1,37 @@
+body {
+  background-color: #fafafa !important;
+}
+h1 {
+  font-family: "Raleway", serif;
+  font-weight: 900;
+}
+.contact-form {
+  max-width: 500px;
+  margin: 20px auto;
+}
+.contact-form input,
+.contact-form textarea {
+  margin-top: 10px;
+  padding-left: 30px;
+}
+.contact-form i:not(:last-child) {
+  height: 0;
+  position: relative;
+  top: -25px;
+  left: 5px;
+  display: block;
+  color: #747373;
+}
+.contact-form i:last-child {
+  height: 0;
+  position: relative;
+  top: -25px;
+  left: 5px;
+  display: block;
+  color: white;
+}
+.contact-form .custom-alert {
+  padding: 5px 10px;
+  margin-top: 5px;
+  display: none;
+}
