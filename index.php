@@ -69,6 +69,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="alert alert-danger custom-alert" role="alert">
                     Email Can't Be <strong>Empty</strong>
                 </div>
+                <!-- Test Connectivity -->
             </div>
 
             <input
